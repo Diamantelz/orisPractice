@@ -1,0 +1,30 @@
+.website-position {
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.title-color-blue {
+    color: blue;
+}
+
+.title-color-red {
+    color: red;
+}
+
+.title-color-purple {
+    color: purple;
+}
+
+.main-title {
+    color: gray;
+}
+
+.input-size {
+    padding: 1%;
+    border: solid 1px black;
+}
+
+.title-position {
+    margin-top: 5%;
+    margin-left: 35%;
+}
